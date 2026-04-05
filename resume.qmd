@@ -1,89 +1,59 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Ross Pence Resume
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Ross Pence
+Computer Science and Software Engineering Major
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+208-671-3736
+| <a href="mailto:rosspence14@gmail.com">rosspence14@gmail.com</a>
+| <a href="#">LinkedIn Profile (Optional)</a>
+| <a href="#">E-Portfolio (Optional)</a>
 </div>
-
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`April 2025 - Present`
+__Brigham Young University - Idaho__, Rexburg, ID
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Computer Science and Software Engineering Major
+- 4.00 GPA at BYUI
+- Won third place at a BYU-I Hackathon as a team of two by writing a computer game in Unity using C#
+- Built Python projects using Tkinter, Math, Pygame, and Turtle
+- Created 3D models of car parts, drone parts, human and animal characters, desk organizers, laptop stands, and other objects using Blender and OnShape (CAD)
+- 3D printed designed objects using an Ender 3 v2 Pro printer
+- Served as lead developer with 2 junior developers
 
-- Sizar
+`April 2025 - Present`
+__Brigham Young University - Idaho__, Rexburg, ID
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+- AI/ML Minor
+- Engineered an end-to-end machine learning pipeline using Polars and Python, implementing and evaluating four predictive models to achieve 90% accuracy
+- Engineered a machine learning pipeline using Polars and Scikit-learn, implementing Random Forest and XGBoost ensembles to compare performance metrics and improve prediction accuracy
 
 
+## Projects
 
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+- Competed as a programmer and driver of multiple teams' robots at the 2022 VEX World Championship
+- Configured BetaFlight for drone motor control, transmitter/receiver communication, and FPV video systems (digital and analog)
+- Tuned PID controller gains, battery charge levels, joystick sensitivities, and flight mode selection via radio control transmitter
 
 
-## Occupation
+## Experience
 
-`1600`
-__Royal Mint__, London
+`January 2026 - April 2026`
+__PlaybookOps - Software Engineering Intern__, Rexburg, Idaho
 
-- Warden
-- Minted coins
+- Full-Stack Developer
+- Architected and deployed a full-stack dynamic web application using HTML5, CSS3, and Node.js, integrating a SQL database for real-time data persistence
+- Collaborated with a cross-functional team of four to deliver high-quality project assets within an accelerated 3-month timeline
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`January 2026 - April 2026`
+__Brigham Young University Idaho__, Rexburg, Idaho
 
+- Teaching Assistant - Web Development
+- Evaluated and provided detailed feedback on 100+ student projects, ensuring adherence to modern web standards and clean code practices
+- Debugged complex student code, resolving technical blockers in HTML5, CSS3, and JavaScript
 
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
